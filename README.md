@@ -1,6 +1,6 @@
 # Induction-program-
 Name - Harjashan Singh , Branch - Mechanical Engineering (MEA)
-##Day -1
+#Day -1
 The induction program of our college, Guru Nanak Dev Engineering College (GNDEC), was a memorable start to our academic journey. It offered a blend of spiritual, academic, and social experiences, helping us get a better understanding of the institution and what lies ahead.
 The day began with a visit to Gurudwara Sahib within the campus. We participated in a serene and calming paath (prayer session), which set a peaceful and positive tone for the day. It was a thoughtful way to begin, aligning with the spiritual values the college is rooted in.
 After the prayer session, a tea break was arranged for all the attendees. Although refreshments were provided, the arrangements was well-organised. 
