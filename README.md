@@ -77,3 +77,8 @@ After a one-hour lunch break, the next session, from 12:30 PM to 1:30 PM, was co
 
 The final session of the day was led by Dr. Jasveer Singh Grewal, the head of the NSS (National Service Scheme) committee. Due to limited time, he briefly introduced the NSS by sharing its motto and vision, starting the session with a 30-minute Kirtan which helped calm our minds and set a peaceful tone. Dr. Grewal explained that the NSS committee focuses on social welfare, including activities like saving birds, planting trees, and serving the community. The committee encourages students to think beyond their personal goals and contribute to societal well-being. He also shared inspiring videos showcasing the impactful work done by NSS volunteers. Personally, I found this session deeply moving and have decided to join the NSS committee, as its values resonate with my personal beliefs.
 
+# Day -7
+The seventh day of tye college induction programm starts from 11Am.
+Fisrt of all there was our EDG class in which the professor describe tye basics of the subject . It was a new subject for us and was qite intersting .After this lecture there was a one hour break. And after that there was Maths Lecture by Pro. Sandeep kaur gill. She has given us all the information about the previous topics we have done. 
+
+# Day -8
