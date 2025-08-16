@@ -78,7 +78,40 @@ After a one-hour lunch break, the next session, from 12:30 PM to 1:30 PM, was co
 The final session of the day was led by Dr. Jasveer Singh Grewal, the head of the NSS (National Service Scheme) committee. Due to limited time, he briefly introduced the NSS by sharing its motto and vision, starting the session with a 30-minute Kirtan which helped calm our minds and set a peaceful tone. Dr. Grewal explained that the NSS committee focuses on social welfare, including activities like saving birds, planting trees, and serving the community. The committee encourages students to think beyond their personal goals and contribute to societal well-being. He also shared inspiring videos showcasing the impactful work done by NSS volunteers. Personally, I found this session deeply moving and have decided to join the NSS committee, as its values resonate with my personal beliefs.
 
 # Day -7
-The seventh day of tye college induction programm starts from 11Am.
+The seventh day of the college induction programm starts from 11Am.
 Fisrt of all there was our EDG class in which the professor describe tye basics of the subject . It was a new subject for us and was qite intersting .After this lecture there was a one hour break. And after that there was Maths Lecture by Pro. Sandeep kaur gill. She has given us all the information about the previous topics we have done. 
 
 # Day -8
+
+On the 3rd day, Timetable was shared with the students. Classes for the day started at 9:30 AM, helping students organize their schedule and prepare for the sessions ahead. The first lecture of the day was conducted by Lecturer Sandeep Kaur Gill, the Mathematics instructor. She provided information about the basic formulas from the 12th standard and demonstrated how these formulas would be applied in the Mathematics 1 subject. She also discussed the syllabus for the first semester and the books required for effective study.
+The second lecture was on Economics, delivered by Professor Puran Singh. He explained the importance and benefits of Economics, discussed market dynamics, and described factors like price fluctuations and inflation. The session helped students understand how economics affects everyday life and the market. A one-hour break was observed after the morning sessions. From 12:30 PM to 1:30 PM, Professor Jaswant Singh Taur conducted the Programming for Problem Solving (PPS) class. Students learned about computers, basic programming concepts, and connected devices, including CPU and other essential hardware components. The final lecture of the day was conducted by Harpreet Kaur Grewal , focusing on laser technology. She introduced the basic definitions, explained important concepts, and illustrated different diagrams related to the topic.
+
+# Day -9
+
+The day began at 8:30 AM with an Economics lecture. The topic continued on inflation and price fluctuations in the market. The professor explained how demand and prices are inversely or directly proportional, supported by various graphs. Additional topics included market dynamics, factors affecting supply and demand, and practical examples of price changes in real-world markets. From 9:30 AM, the Physics lecture continued the discussion on laser technology. The session focused on excitation states of electrons and atoms, along with related phenomena. Students also solved one or two numerical problems to apply these concepts. Following Physics, Lecturer Deepinder Singh conducted a EDG class. Students were taught writing basic alphabets (A, B, C) in capital and lowercase on graph paper, along with detailed information about the subject and recommended books for note-taking and reference.
+
+A one-hour break was observed after the morning sessions. Manufacturing Practices Workshop – Welding. After the break, the Manufacturing Practices workshop began. The session focused on welding techniques, where the workshop head explained basic concepts including:
+	•	Heat and pressure-based welding
+	•	Types of welding: gas welding, arc welding, frictional welding, and others
+	•	Use of flux and other welding materials
+
+As it was the first practical session, the workshop focused on theoretical understanding. Students then cut metal pieces using a cutter, with each student preparing two pieces for hands-on practice in future sessions.
+
+# Day - 10
+
+The day began with an Economics lecture; however, the professor was absent, so it was observed as a free lecture. The next session was Mathematics, where the topic of derivatives was continued. Students solved basic numerical problems, and the teacher explained the concepts clearly and systematically. Homework was assigned for further practice, which would be checked in the next class. Laser Technology: The Physics lecture continued the topic of laser technology. Students learned about simple derivations related to laser phenomena such as population inversion, energy transitions, and emission of coherent light. The syllabus for the subject and recommended books available on the c ollege website were also discussed. After Physics, there was a free lecture period. Mentoring Session: A one-hour mentoring class was conducted. Topics discussed included:
+	•	Benefits and scope of Mechanical Engineering
+	•	Requirements for success in this field
+	•	Challenges and competition in the industry
+	•	Guidance on hostel life and mentorship support
+Students were informed that any doubts or queries could be addressed to their assigned mentors for guidance and support.
+
+# Day -11 
+
+
+The day started with the Physics lecture, continuing the topic of laser technology. The teacher solved several derivations related toRate of absorption, Rate of stimulated emission,	Other related derivations
+Additionally, students practiced frequency-related numericals and explored various concepts of laser physics, strengthening both theoretical understanding and problem-solving skills.In the second session of the Manufacturing Practices workshop, students began the practical welding exercises. Using the metal pieces cut during the previous workshop, students performed welding while following strict safety protocols with all required protective equipment.	Due to time constraints, the welding practice could not be fully completed and will continue in the next session.The workshop emphasized hands-on skills, proper handling of tools, and safety awareness in welding processes.
+A Mathematics tutorial session was conducted, where students:, Introduced themselves by sharing marks, hobbies, and personal details
+, Reviewed the basics of Mathematics 1, Received homework assignments for practice. This session helped students strengthen foundational understanding and prepare for upcoming classes.The PPS session continued the topic of computer basics. Key areas covered included:
+Input and output devices, CPU and its components,	Monitors, keyboards, and other hardware, Detailed diagrams and charts were explained to ensure clarity of concepts.
+
