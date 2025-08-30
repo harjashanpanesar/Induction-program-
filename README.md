@@ -19,7 +19,9 @@ Post this session, we had a lunch break, after which we went on a tour of the Me
 
 On the second day of induction programm we enjoyed a lot. The day was planned with a series of informative sessions, expert lectures, and assessments aimed at helping us understand the institution and prepare for our academic journey.
 
-The day began with our arrival at the college campus. We proceeded to the auditorium, where the first session was conducted by Dr. Priya Darshini Madam, who delivered an insightful lecture on Universal Human Values. Her session focused especially on happiness and the state of contentment, discussing how these states of mind influence our everyday actions and decisions. The session was enlightening, providing a fresh perspective on how we can achieve true happiness. It was an inspiring session that encouraged us to think deeply about ethical behavior and human connection.
+The day began with our arrival at the college campus.
+![image alt](
+We proceeded to the auditorium, where the first session was conducted by Dr. Priya Darshini Madam, who delivered an insightful lecture on Universal Human Values. Her session focused especially on happiness and the state of contentment, discussing how these states of mind influence our everyday actions and decisions. The session was enlightening, providing a fresh perspective on how we can achieve true happiness. It was an inspiring session that encouraged us to think deeply about ethical behavior and human connection.
 
 Following this, we attended another session in the auditorium by Dr. Aravind Tingara, the Director and STEP In-charge of TAC. He provided us with comprehensive information about the college, including its structure, available resources, and support systems for students. Moreover in this lecture we wnjoyed a lot , we played a lot of games in team and solo with gives us confidence to face the audience on stage .
 
