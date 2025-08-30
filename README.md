@@ -56,7 +56,10 @@ This was the final lecture for the day. After its conclusion, we returned to our
 
 # Day - 4
 
-The fourth day of our college induction program was quite interesting as well as informative as it was related to the motorsport as well as on the nutrition . This session was quite useful for me as we get to know about the information related to the motorsports and and the importance of millets in our diet 
+The fourth day of our college induction program was quite interesting 
+![image alt](https://github.com/harjashanpanesar/Induction-program-/blob/79d555d158580c3cab5b4e2581e6c6e88ee56079/61aac336-cd65-4e3f-839c-8f3586e2c377.JPG)
+
+it informative as it was related to the motorsport as well as on the nutrition . This session was quite useful for me as we get to know about the information related to the motorsports and and the importance of millets in our diet 
 
 The day began with an enlightening lecture by Mr. Gautam Maurya on the topic of Motorsports and its Relevance in Mechanical Engineering. He discussed how motorsports is a core application area of mechanical engineering, offering real-world insights into vehicle design, safety, and performance. He shared detailed information about different types of racing cars, focusing on how even minor components like nuts and bolts play a critical role in vehicle safety. Improper placement or dislocation of these small parts can lead to serious accidents. Moreover Mr. Maurya emphasized the importance of precise timing in Formula 1 racing, where even milliseconds matter. Also in this session we discussed about arrodynamics , how it is important in cars and effect tye fuel consumption and effeciency
 
