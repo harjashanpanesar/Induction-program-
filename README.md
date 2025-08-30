@@ -42,11 +42,13 @@ The third day of our college induction program was both informative and engaging
 
 The day began as per schedule with all students gathering in the auditorium at 8:30 AM. The session opened with a prayer, where we remembered and thanked God. This moment of reflection set a peaceful and respectful tone for the rest of the day.
 
-Following the prayer, the first lecture was conducted by the Cosmic Club. The speakers provided detailed information about the various events, programs, and activities organized by the club throughout the academic year. We were introduced to exciting competitions such as Bhangra, Apex, Akme, and many others. These events were said to be held branch-wise and included participation from various engineering disciplines, colleges, and even schools. It gave us a clear picture of how vibrant and active the cultural scene of the college is.
+Following the prayer, the first lecture was conducted by the Causmic Club. The speakers provided detailed information about the various events, programs, and activities organized by the club throughout the academic year. We were introduced to exciting competitions such as Bhangra, Apex, Akme, and many others. These events were said to be held branch-wise and included participation from various engineering disciplines, colleges, and even schools. It gave us a clear picture of how vibrant and active the cultural scene of the college is.
 
 The next lecture was delivered by Dr. Priya Darshini Madam, who continued with Part 2 of the session on Universal Human Values. This time, she discussed important life aspects such as relationships, money, rights, and mutual understanding. Her session also focused on the concept of happiness, and she shared some results of depression tests conducted among students, highlighting the emotional challenges that youth often face. Her talk encouraged us to be more self-aware and compassionate in our interactions.
 
-After these sessions, we had a lunch break from 12:30 PM to 1:30 PM, providing us some time to refresh and prepare for the next segment of the day.
+After these sessions, we had a lunch break from 12:30 PM to 1:30 PM, providing us some time to refresh and after that we enjoyed exploring college campus 
+![image alt](https://github.com/harjashanpanesar/Induction-program-/blob/63c5d6998f056332209041d16fb81fa48b854b24/IMG_1398.PNG)
+prepare for the next segment of the day. 
 
 The post-lunch session started with a lecture by Professor Jaswant Singh, the Head of the Coding Department. He shared insightful knowledge about the importance of coding in fields like mechanical engineering and robotics. He began by engaging students with questions such as why they chose this particular field, which led to a healthy and polite discussion. He then introduced us to various programming languages and explained the basic system requirements for different coding applications relevant to our field. His session helped us understand the growing significance of digital skills in engineering careers.
 
