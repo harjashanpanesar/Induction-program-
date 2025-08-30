@@ -47,7 +47,7 @@ Following the prayer, the first lecture was conducted by the Causmic Club. The s
 The next lecture was delivered by Dr. Priya Darshini Madam, who continued with Part 2 of the session on Universal Human Values. This time, she discussed important life aspects such as relationships, money, rights, and mutual understanding. Her session also focused on the concept of happiness, and she shared some results of depression tests conducted among students, highlighting the emotional challenges that youth often face. Her talk encouraged us to be more self-aware and compassionate in our interactions.
 
 After these sessions, we had a lunch break from 12:30 PM to 1:30 PM, providing us some time to refresh and after that we enjoyed exploring college campus 
-![image alt](https://github.com/harjashanpanesar/Induction-program-/blob/63c5d6998f056332209041d16fb81fa48b854b24/IMG_1398.PNG)
+![image alt](https://github.com/harjashanpanesar/Induction-program-/blob/fdd34be06d675ae045b9eabb80de0f74cd74c18e/IMG_1398.jpg)
 prepare for the next segment of the day. 
 
 The post-lunch session started with a lecture by Professor Jaswant Singh, the Head of the Coding Department. He shared insightful knowledge about the importance of coding in fields like mechanical engineering and robotics. He began by engaging students with questions such as why they chose this particular field, which led to a healthy and polite discussion. He then introduced us to various programming languages and explained the basic system requirements for different coding applications relevant to our field. His session helped us understand the growing significance of digital skills in engineering careers.
