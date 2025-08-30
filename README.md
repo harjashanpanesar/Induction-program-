@@ -8,7 +8,7 @@ The day began with a visit to Gurudwara Sahib within the campus. We participated
 After the prayer session, a tea break was arranged for all the attendees. Although refreshments were provided, the arrangements was well-organised. 
 
 We then moved to the college auditorium, where the formal part of the induction began. The session started with a warm welcome and an insightful address by Dr. Sehajpal, the Principal. He explained the curriculum structure of GNDEC and highlighted various opportunities the university provides to its students.
-
+![image alt](
 This was followed by Prof. Harpreet Kaur, Head of the Applied Sciences Department, who gave us an overview of the academic support available during the foundation year. Her words were encouraging and made us feel more confident about entering this new phase of life.
 
 A special highlight of the session was the speech by S. Maheshinder Singh Grewal, former Cabinet Minister and trustee of the Nankana Sahib Trust, which supports and funds the university. He shared his vision for the institution and the importance of discipline, education, and heritage. His words were inspiring and added a larger perspective to the role our education will play in society.
